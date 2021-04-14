@@ -1,0 +1,1 @@
+Vemos que ejecutando el programa que tenemos, al lanzar dos funciones diferentes y lanzando pools, una de ellas al ser multicore utiliza diferentes cores.  De los 7 cores que tengo disponibles, se están ejecutando 5 procesos diferentes (dado que tienen 5 PID diferentes) todos ellos se encuentran ejecución y realizando las tareas del programa. 
